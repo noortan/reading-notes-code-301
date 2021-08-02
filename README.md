@@ -9,3 +9,4 @@ this Repo will contains the reading notes for 301-code class
   # Table of Contents 
 1. [class1](class1.md)
 2. [class2](class2.md)
+3. [class3](class3.md)
