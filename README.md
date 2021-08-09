@@ -12,4 +12,5 @@ this Repo will contains the reading notes for 301-code class
 3. [class3](class3.md)
 4. [class4](class4.md)
 5. [class5](class5.md)
-6.  [class6](class6.md)
+6. [class6](class6.md)
+7. [class7](class7.md)
