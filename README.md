@@ -19,3 +19,5 @@ this Repo will contains the reading notes for 301-code class
 10. [class10](class10.md)
 11. [class11](class11.md)
 12. [class12](class12.md)
+13. [class13](class13.md)
+14. [class14](class14.md)
